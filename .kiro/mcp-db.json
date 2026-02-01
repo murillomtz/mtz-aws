@@ -6,7 +6,7 @@
         "run",
         "-i",
         "--rm",
-        "--network=bia_default",
+        "--network=mtz_default",
         "-e",
         "DATABASE_URI",
         "crystaldba/postgres-mcp",
