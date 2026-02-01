@@ -22,7 +22,7 @@ if [ $? -eq 0 ]; then
   if [ -n "$inbound_rule" ]; then
     echo " [OK] Regra de entrada está ok"
   else
-    echo " >[ERRO] Regra de entrada para a porta 3001 não encontrada ou não está aberta para o mundo todo. Reveja a aula do Henrylle"
+    echo " >[ERRO] Regra de entrada para a porta 3001 não encontrada ou não está aberta para o mundo todo. "
   fi
 
   # Validar outbound rule para o security group 'mtz-dev'
@@ -31,7 +31,7 @@ if [ $? -eq 0 ]; then
   if [ -n "$outobund_rule" ]; then
     echo " [OK] Regra de saída está correta"
   else
-    echo " >[ERRO] Regra de saída para o mundo não encontrada. Reveja a aula do Henrylle"
+    echo " >[ERRO] Regra de saída para o mundo não encontrada. "
   fi
 else
   echo ">[ERRO] Não achei o security group mtz-dev. Ele foi criado?"

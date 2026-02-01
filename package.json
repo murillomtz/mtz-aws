@@ -1,7 +1,7 @@
 {
   "name": "mtz",
   "version": "4.2.0",
-  "description": "### Período do evento: 31/01 a 01/02/2026 (Online e ao vivo das 9h30 às 17h30)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest tests/unit",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/henrylle/mtz.git"
+    "url": "git+https://github.com/murillomtz/mtz-aws.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/henrylle/mtz/issues"
+    "url": "https://github.com/murillomtz/mtz-aws/issues"
   },
-  "homepage": "https://github.com/henrylle/mtz#readme",
+  "homepage": "https://github.com/murillomtz/mtz-aws#readme",
   "dependencies": {
     "@aws-sdk/client-secrets-manager": "^3.583.0",
     "@aws-sdk/client-sts": "^3.583.0",

@@ -7,7 +7,7 @@
 **Repositório:** https://github.com/murillomtz/mtz-aws
 
 ## Impressões Iniciais do Desenvolvedor
-O projeto do MTZ é um projeto educacional para ser usado nos eventos que ele realiza e servir de base para o treinamento Formação AWS.
+O projeto do MTZ é um projeto educacional para ser usado nos eventos que ele realiza e servir de base para o treinamento em AWS.
 
 É um projeto concebido no ano de 2021 e que vem evoluindo usando as melhores práticas dentro da AWS.
 
